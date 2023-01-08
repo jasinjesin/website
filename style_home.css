@@ -4,7 +4,7 @@ body {
     padding: 0;
     background-color: rgb(245, 241, 241);
     display:flex;
-    justify-content:right;
+    align-items:right;
   }
   .container {
     display: flex;
